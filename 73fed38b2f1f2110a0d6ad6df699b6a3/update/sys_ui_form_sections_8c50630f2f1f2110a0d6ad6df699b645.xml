@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8c50630f2f1f2110a0d6ad6df699b645" sys_domain="global" table="x_16118_simplecase_simple_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-13 01:31:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9850630f2f1f2110a0d6ad6df699b65c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_16118_simplecase_simple_case" name="x_16118_simplecase_simple_case" sys_domain="global" view="Default view">8c50630f2f1f2110a0d6ad6df699b645</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_16118_simplecase_simple_case" sys_domain="global" view="Default view">4c50630f2f1f2110a0d6ad6df699b655</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-13 01:31:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-13 01:31:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8050630f2f1f2110a0d6ad6df699b651</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_16118_simplecase_simple_case" name="x_16118_simplecase_simple_case" sys_domain="global" view="Default view">8c50630f2f1f2110a0d6ad6df699b645</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_16118_simplecase_simple_case" sys_domain="global" view="Default view">c850630f2f1f2110a0d6ad6df699b64c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-13 01:31:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-13 01:31:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4850630f2f1f2110a0d6ad6df699b655</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_16118_simplecase_simple_case" name="x_16118_simplecase_simple_case" sys_domain="global" view="Default view">8c50630f2f1f2110a0d6ad6df699b645</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_16118_simplecase_simple_case" sys_domain="global" view="Default view">8450630f2f1f2110a0d6ad6df699b651</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-13 01:31:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-13 01:31:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c450630f2f1f2110a0d6ad6df699b64c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_16118_simplecase_simple_case" name="x_16118_simplecase_simple_case" sys_domain="global" view="Default view">8c50630f2f1f2110a0d6ad6df699b645</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_16118_simplecase_simple_case" sys_domain="global" view="Default view">c050630f2f1f2110a0d6ad6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-13 01:31:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_16118_simplecase_simple_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-13 01:31:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c50630f2f1f2110a0d6ad6df699b645</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_16118_simplecase_simple_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SimpleCase" source="x_16118_simplecase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SimpleCase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8c50630f2f1f2110a0d6ad6df699b645</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-13 01:31:14</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

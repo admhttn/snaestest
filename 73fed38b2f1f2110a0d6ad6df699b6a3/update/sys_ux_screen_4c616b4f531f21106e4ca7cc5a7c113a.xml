@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="SimpleCase Config">00616b4f401f2110ecc5d764d065c35d</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Visualization Designer">2d5dcc29c3110110d938e4788940dd8f</macroponent>
+        <macroponent_config>{
+  "sysid" : "",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "headingOnlyVisibleToScreenReaders" : false,
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Visualization Designer default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Visualization Designer">08616b4f5b1f21104384db404347464f</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-13 01:35:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c616b4f531f21106e4ca7cc5a7c113a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visualization Designer default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SimpleCase" source="x_16118_simplecase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SimpleCase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_scope>
+        <sys_update_name>sys_ux_screen_4c616b4f531f21106e4ca7cc5a7c113a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-13 01:35:57</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=4c616b4f531f21106e4ca7cc5a7c113a"/>
+</record_update>

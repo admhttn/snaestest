@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="SimpleCase - Workspace Search">84616b4fe01f2110d5f0ac9bcca11253</context_config_id>
+        <limit>5</limit>
+        <order>500</order>
+        <section_header>Recently viewed</section_header>
+        <suggestion_type>User History Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-13 01:35:54</sys_created_on>
+        <sys_id>c8616b4f2a1f211029f56cad4fe4835a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User History Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="SimpleCase" source="x_16118_simplecase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SimpleCase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_c8616b4f2a1f211029f56cad4fe4835a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-13 01:35:54</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-13 01:35:55</sys_created_on>
+        <sys_id>c4616b4f2d1f21104628c2f58d2e9558</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SimpleCase" source="x_16118_simplecase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SimpleCase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Suggested Query Reader Group for Starter Workspace - Workspace Search">40616b4fc11f2110c6fb8810b518c858</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="User Search Term Reader">4b1cb27053231010dda1ddeeff7b12b8</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_c4616b4f2d1f21104628c2f58d2e9558</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-13 01:35:55</sys_updated_on>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

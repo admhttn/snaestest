@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <evam_definition/>
+        <genius_results_limit/>
+        <hit_highlighting>false</hit_highlighting>
+        <name>SimpleCase - Workspace Search</name>
+        <search_engine>zing</search_engine>
+        <search_profile/>
+        <search_results_limit>10</search_results_limit>
+        <spell_check>false</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-13 01:35:55</sys_created_on>
+        <sys_id>84616b4fe01f2110d5f0ac9bcca11253</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SimpleCase - Workspace Search</sys_name>
+        <sys_package display_value="SimpleCase" source="x_16118_simplecase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SimpleCase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_scope>
+        <sys_update_name>sys_search_context_config_84616b4fe01f2110d5f0ac9bcca11253</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-13 01:35:55</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=84616b4fe01f2110d5f0ac9bcca11253"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="SimpleCase">8c616b4fbb1f211049acd16aad7ea954</dashboard>
+        <experience display_value="SimpleCase">c8616b4fc41f2110680cac2dd9ec515c</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-13 01:35:54</sys_created_on>
+        <sys_id>80616b4f431f2110a7666d01c18b3054</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SimpleCase" source="x_16118_simplecase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SimpleCase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_scope>
+        <sys_update_name>par_dashboard_visibility_80616b4f431f2110a7666d01c18b3054</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-13 01:35:54</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

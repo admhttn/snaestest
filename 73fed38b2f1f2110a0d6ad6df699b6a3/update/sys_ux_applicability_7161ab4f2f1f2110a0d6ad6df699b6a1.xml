@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_16118_simplecase.Audience for app simplecase</api_name>
+        <description/>
+        <name>Audience for app simplecase</name>
+        <roles>0c0fd38b2f1f2110a0d6ad6df699b6a9,840fd38b2f1f2110a0d6ad6df699b6af</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-13 01:36:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7161ab4f2f1f2110a0d6ad6df699b6a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app simplecase</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SimpleCase" source="x_16118_simplecase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SimpleCase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_scope>
+        <sys_update_name>sys_ux_applicability_7161ab4f2f1f2110a0d6ad6df699b6a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-13 01:36:01</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

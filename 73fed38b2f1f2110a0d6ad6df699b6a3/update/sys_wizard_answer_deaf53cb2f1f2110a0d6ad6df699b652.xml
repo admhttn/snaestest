@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <answer>New Simple Case</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Simple Case</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Case" name="Case">98d57c94c3102200e7c7d44d81d3aea9</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-13 01:28:24</sys_created_on>
+        <sys_id>deaf53cb2f1f2110a0d6ad6df699b652</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple Case</sys_name>
+        <sys_package display_value="SimpleCase" source="x_16118_simplecase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SimpleCase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_scope>
+        <sys_update_name>sys_wizard_answer_deaf53cb2f1f2110a0d6ad6df699b652</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-13 01:28:24</sys_updated_on>
+        <table/>
+        <target_url>x_16118_simplecase_simple_case.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

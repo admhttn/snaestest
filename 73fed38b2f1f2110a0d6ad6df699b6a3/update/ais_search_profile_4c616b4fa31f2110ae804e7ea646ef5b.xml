@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for SimpleCase</description>
+        <genius_result_assembly/>
+        <label>simplecase Search Profile</label>
+        <name>x_16118_simplecase_kugmgf_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-13 01:35:55</sys_created_on>
+        <sys_id>4c616b4fa31f2110ae804e7ea646ef5b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>simplecase Search Profile</sys_name>
+        <sys_package display_value="SimpleCase" source="x_16118_simplecase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SimpleCase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_scope>
+        <sys_update_name>ais_search_profile_4c616b4fa31f2110ae804e7ea646ef5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-13 01:36:10</sys_updated_on>
+    </ais_search_profile>
+</record_update>

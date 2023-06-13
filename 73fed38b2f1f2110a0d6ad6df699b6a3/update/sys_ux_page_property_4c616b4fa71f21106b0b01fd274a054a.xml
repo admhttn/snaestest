@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Ribbon Config ID</description>
+        <name>ribbonConfigId</name>
+        <page display_value="SimpleCase">c8616b4fc41f2110680cac2dd9ec515c</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-13 01:35:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>4c616b4fa71f21106b0b01fd274a054a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="SimpleCase" source="x_16118_simplecase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SimpleCase">73fed38b2f1f2110a0d6ad6df699b6a3</sys_scope>
+        <sys_update_name>sys_ux_page_property_4c616b4fa71f21106b0b01fd274a054a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-13 01:35:56</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_16118_simplecase.c8616b4fc41f2110680cac2dd9ec515c.root.ribbonConfigId</unique_name>
+        <value>c4616b4f551f2110f948d862a7a6d54a</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=4c616b4fa71f21106b0b01fd274a054a"/>
+</record_update>
